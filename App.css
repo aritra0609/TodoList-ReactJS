@@ -28,11 +28,12 @@ body {
   }
   
   button {
-    width: 15%;
+    width: 38%;
     background-color:yellowgreen;
     color: black;
     padding: 14px 20px;
-    margin-left: 6px;
+    margin-left: 9px;
+    margin-top: 23px;
     border: none;
     border-radius: 4px;
     cursor: pointer;
@@ -73,6 +74,7 @@ body {
   
   .btn-position {
     position: relative;
-    left: 15%;
-    top: -65px;
+    left: 32%;
+    top: -79px;
+    
   }
